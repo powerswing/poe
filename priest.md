@@ -68,7 +68,7 @@
     - Kill wolves
 - Guilded Vale
     - Late for Dinner
-    - Buy food
+    - NPC (food)
     - Buried Secrets (bells: right, middle, left, right)
         - reach 5930 experience
 - Raedric's Keep
@@ -93,3 +93,81 @@
 - Copperlane
 
 ### Act 2
+- Copperlane
+    - Gordy (Something Secret)
+    - Dalton (A Voice from the Past)
+    - Igrun (Something Secret)
+    - Narmer (food)
+    - Lora (ingredients)
+- The Goose and the Fox
+    - NPC (food)
+    - Kaenra (His Old Self)
+    - Two-Tone Weaxel (Something Secret)
+- Copperlane
+    - Gordy (Something Secret)
+- Brackenbury
+- The Charred Barrel
+    - Food
+- Ondra's Gift
+    - Derrin (Brave Derrin)
+    - Odda (Brave Derrin)
+    - Cartugo
+        - Rotfinger Gloves
+        - Ingredients
+    - Maestre Verzano (At All Costs)
+- The Salty Mast
+    - Maea (Supply and Demand)
+    - NPC (food)
+- Ondra's Gift
+    - Fight thugs (Supply and Demand)
+    - Aefre (Supply and Demand)
+- The Salty Mast
+    - Maea (Supply and Demand)
+    - Level up
+        - Mechanics 5
+        - Lore 4
+- Copperlane
+    - Gordy
+    - Fights thugs (hideout)
+- Admeth
+    - Osric (Rogue Knight)
+- The Goose and the Fox
+    - Gareth (At All Costs)
+    - NPC (mechanics sleep)
+- Library
+    - Grimda (The Parable of Wael)
+    - Steal book (The Theorems of Pandgram)
+- First Fires
+    - Steal ghosts
+- Ondra's Gift
+    - Black market
+    - Verzano (At All Costs)
+- Brackenbury
+    - Naedyn (The Theorems of Pandgram)
+    - Doemenel (A Two Story Job)
+    - Steal stone (A Two Story Job)
+    - Doemenel (The Changing of the Guard)
+- The Crucible Knight Keep
+    - Missing Sentries
+    - Built to Last
+    - The Changing of the Guard
+- Brackenbury
+    - Kurren (Rogue Knight)
+    - Penhelm (resolve peacefully)
+- Admeth
+    - Osric (Rogue Knight)
+- Level up
+    - Mechanics 6
+    - **(?)**
+- Dormitory
+    - Built to Last
+- Purnisc's House
+    - His old Self (kill guards above)
+- The Goose and the Fox
+    - Kaenra (His Old Self)
+- Ondra's Gift
+    - Built to Last
+    - Restock
+- First Fires
+    - Built to Last
+- Catacombs
