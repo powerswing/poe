@@ -80,9 +80,11 @@
 - Raedric's Keep
     - Giacco
     - Raedric
-- [Boots of stealth](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Boots#Boots_of_Stealth)
+- [Rite of Hidden Wonders](https://pillarsofeternity.fandom.com/wiki/Rite_of_Hidden_Wonders)
+    - Day 7 in Raedric's Keep (chest in the room to the south)
+- [Boots of Stealth](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Boots#Boots_of_Stealth)
     - Day 8, 12 or 20 in Raedric's Keep (master bedroom)
-- [Gloves of manipulation](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Handwear#Gloves_of_Manipulation)
+- [Gloves of Manipulation](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Handwear#Gloves_of_Manipulation)
     - Day 17 in Raedric's Hold Dungeons (loose brick)
 - Guilded Vale
     - Buried Secrets
