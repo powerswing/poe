@@ -160,7 +160,7 @@
     - Osric (Rogue Knight)
 - Level up
     - Mechanics 6
-    - **(?)**
+    - Deep Pockets
 - Dormitory
     - Built to Last
 - Purnisc's House
@@ -169,7 +169,87 @@
     - Kaenra (His Old Self)
 - Ondra's Gift
     - Built to Last
-    - Restock
 - First Fires
     - Built to Last
 - Catacombs
+    - [Cloak of Protection](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Cloaks#Cloak_of_Protection)
+        - Day 12 in the 3rd room of central raised area
+    - Eorn (Unwanted)
+    - Helig of Thein (A Voice from the Past)
+    - Main quest (don't open the sarcophagus)
+- Copperlane
+    - Dalton (A Voice from the Past)
+- Woodend Plains
+    - Kill NPCs (The Parable of Wael)
+- Black Meadow
+    - Hide book (The Parable of Wael)
+- Library
+    - Grimda (The Parable of Wael)
+- Anslog's Compass
+    - Ranga (A Mother's Plea)
+    - Ponamu Bird-Scorned (Belt of the Royal Deadfire Canoneer)
+- Valewood
+    - Cave (Vengeance from the Grave)
+- The Guilded Vale
+    - Afra (A Mother's Plea)
+    - Nonton (Vengeance from the Grave)
+    - Level up
+        Mechanics 7
+- Raedric's Keep
+    - Kill Raedric (Lord of a Barren Land)
+- Dyrford Village
+    - Harbringer Beodmar
+    - Medrethh (Cat and Mouse)
+    - Rumbald (A Farmer's Plight)
+    - Hendyna (Nest Egg)
+- Dyrford Crossing
+    - Kill mobs at entrance of Skaen
+    - Kill spiders at cave's entrance
+- Skaen Temple
+    - Wyrmund (Blood Legacy)
+    - Swipe the place clean
+- Dyrford Crossing
+    - Ogre (A Farmer's Plight)
+    - Kill NPCs (Nest Egg)
+- Dyrford
+    - Hendyna (Nest Egg)
+    - Lord Harond (Blood Legacy)
+    - Kill Nyfre (Cat and Mouse)
+    - Rumbald (A Farmer's Plight)
+    - Medreth (Cat and Mouse)
+    - Level Up
+        - Lore 6
+        - Untroubled Faith **(?)**
+- Brackenbury
+    - Main quest
+- Ondra's Gift
+    - Nials (The Wailing Banshee)
+- Brackenbury
+    - Maerwith (The Wailing Banshee)
+- Ondra's Gift
+    - Nials (The Wailing Banshee)
+- Heritage Hill
+    - Main quest
+- Cliaban Rilag
+    - Main quest
+    - Level Up
+        - Mechanics 8
+- Brackenbury
+    - Main quest
+- Elmshore
+    - Dying Monk (The Sealed Missive)
+- Hearthsong
+    - Main quest
+    - Ridai (Hunter, Brother)
+    - Rinatto (Hard Bargain)
+    - Monks (The Sealed Missive)
+    - Frightened Villager (Raerdic's Quest)
+    - Cwineth (At the Mercy of the Tribes)
+    - Alarhi (Hard Bargain)
+    - Rinatto (Hard Bargain)
+- Next
+    - Simoc (poison Simoc)
+    - Main quest (Rymrgand and Hylea)
+    - Have 17 resolve
+    - Rymrgand quest
+    - Prison of Ice
