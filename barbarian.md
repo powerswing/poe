@@ -11,31 +11,32 @@
 
 ## Character
 
-- Eothas (benevolent and honest dialogue options)
-- Aedyr
+- Rauatai
 - Drifter
 
 ### Stats
 
+- Strength
+    - 16
 - Constitution
-    - 7
+    - 15
 - Dexterity
-    - 7
+    - 15
+- Perception
+    - 18
 - Resolve
-    - 10
-- Other stats
-    - MAX
+    - 3
 
 ## Guide
 
 ### Act 1
 
 - Prologue
-    - Gather everything than sell
+    - Gather everything then sell
 - Level up
     - Mechanics 3
     - Stealth 3
-    - Brilliant Radiance
+    - Veteran's Healing
 - Nonton
 - Guilded Vale
     - Rest at Black Hound
@@ -46,8 +47,8 @@
     - Level up
         - Mechanics 4
         - Stealth 4
+        - Savage Defiance
     - Tuatanu (The Smith's Shipment)
-    - Against the Grain (resolve with beer)
 - Easternwood
     - Stash at graveyard
     - Kolsc
@@ -56,40 +57,44 @@
     - The Smith's Shipment
 - Magran's Fork
     - Amulet in bush close to troll
-    - Scroll of Fan of Fames (around 5)
-- Madhmr Bridge
-    - Peregrund (Ferry Flotsam)
-    - Ferry Flotsam (resolve without fighting)
 - Guilded Vale
     - The Smith's Shipment
     - Buy Bronze Horn Figurine
-- Valewood
-    - Late for Dinner
-    - Kill wolves
-- Guilded Vale
-    - Late for Dinner
-    - NPC (food)
-    - Buried Secrets (bells: right, middle, left, right)
-        - reach 5930 experience
 - Raedric's Keep
-    - Level up
-        - Stealth 5
-        - Deep pockets
+    - Kill guard 
 - Raedric's Hold Dungeons
     - Free Giacco
-- Raedric's Keep
-    - Giacco
-    - Raedric
-- [Rite of Hidden Wonders](https://pillarsofeternity.fandom.com/wiki/Rite_of_Hidden_Wonders)
-    - Day 7 in Raedric's Keep (chest in the room to the south)
-- [Boots of Stealth](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Boots#Boots_of_Stealth)
-    - Day 8, 12 or 20 in Raedric's Keep (master bedroom)
-- [Gloves of Manipulation](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Handwear#Gloves_of_Manipulation)
-    - Day 17 in Raedric's Hold Dungeons (loose brick)
+    - Gather everything then sell
+    - Level up
+        - Stealth 5 (needed for Buried Secrets)
+        - Mechanics 5 (needed for loose brick)
+        - Weapon Focus: Soldier
+    - [Rite of Hidden Wonders](https://pillarsofeternity.fandom.com/wiki/Rite_of_Hidden_Wonders)
+        - Day 7 in Raedric's Keep (chest in the room to the south)
+    - [Boots of Stealth](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Boots#Boots_of_Stealth)
+        - Day 8, 12 or 20 in Raedric's Keep (master bedroom)
+    - [Gloves of Manipulation](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Handwear#Gloves_of_Manipulation)
+        - Day 17 in Raedric's Hold Dungeons (loose brick)
+- Anslog's Compass
+    - Ponamu Bird-Scorned (Belt of the Royal Deadfire Canoneer)
+- Madhmr Bridge
+    - Peregrund (Ferry Flotsam)
+    - Ferry Flotsam (resolve without fighting)
+- Valewood
+    - Kill wolves
+    - Late for Dinner
+- Anslog's Compass
+    - A Mother's Plea
 - Guilded Vale
-    - Buried Secrets
+    - Late for Dinner
+    - A Mother's Plea
+    - NPC (food)
+    - Buried Secrets (bells: right, middle, left, right)
 - Caed Nua
     - The Old Watcher
+    - Level Up
+        - Survival 4
+        - Bloodbath
 - Wooden Plains
 - Aedelwan Bridge
 - Copperlane
