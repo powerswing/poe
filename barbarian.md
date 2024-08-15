@@ -149,6 +149,7 @@
 - Ondra's Gift
     - Black market
     - Verzano (At All Costs)
+    - Pallegina (The Forgotten)
 - Brackenbury
     - Naedyn (The Theorems of Pandgram)
     - Doemenel (A Two Story Job)
@@ -158,6 +159,7 @@
     - Missing Sentries
     - Built to Last
     - The Changing of the Guard
+    - Dunstan (Shod-in-Faith)
 - Brackenbury
     - Kurren (Rogue Knight)
     - Penhelm (resolve peacefully)
@@ -215,6 +217,8 @@
     - Swipe the place clean
 - Dyrford Crossing
     - Ogre (A Farmer's Plight, 12242)
+    - [Glanfathan Adraswen](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Accessories/Amulets#Glanfathan_Adraswen)
+        - Day 10 under the ogre's rug
     - Kill NPCs (Nest Egg)
 - Dyrford
     - Hendyna (Nest Egg)
@@ -257,6 +261,7 @@
         - Day 5, 6 or 12 in the secret room's chest at Blood Sands
 - Next
     - Simoc (poison Simoc)
+        - 19 Resolve or 19 Intellect, then 19 Perception
     - Main quest (Rymrgand and Hylea)
     - Have 17 resolve
     - Rymrgand quest
