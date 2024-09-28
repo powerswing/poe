@@ -1,3 +1,5 @@
+!!! Need to get +2 stealth boots
+
 ## Port Maje
 
 - rope and grapling hook 
@@ -100,3 +102,45 @@
 
 - Mechanics 13
 - Insight 5
+
+
+### Serpent's Crown
+
+- Muhai
+- Takano
+- Onekaza
+
+- Mechanics 14
+- Diplomacy 6
+
+### The Sacred Stair
+
+- Muhai cremate
+
+### The Brass Citadel
+
+- Bertenno
+- Uto steal pistol
+- Hazanui Karu
+- Atsura
+
+### The Gullet
+
+- Biha
+- Enoi
+- Seduzo
+- Orron pay coin
+- Persa
+- Pitli
+- Dereo
+- Delver's Row medicine and steal things
+- Morena
+- Gwenfin
+
+- Mechanics 15
+- Bluff 6
+
+### Queen's Berth
+
+- Ezzali rob her
+- Atello kill him
