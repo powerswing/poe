@@ -144,3 +144,26 @@
 
 - Ezzali rob her
 - Atello kill him
+- Kahanga Palace
+
+### Periki's Overlook
+
+- Arkemyr talk about Bekarna
+- Fassina give gloves back
+
+### The Sacred Stair
+
+- Temple of Berath? bad choice?
+- Animancers
+
+### Dunnage
+
+- Aeldys
+
+### Map Exp
+
+- Sanza
+
+### Crookspur
+
+- Free Slaves
