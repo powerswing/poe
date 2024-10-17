@@ -1,8 +1,6 @@
-!!! Need to get +2 stealth boots
-
 ## Port Maje
 
-- rope and grapling hook 
+- rope and grapling hook [2] 
 - thief's putty
 
 - Stealth 4
@@ -18,7 +16,8 @@
 
 ## Fort Deadlight
 
-- jumping boots upstairs
+- jumping boots, Benweth's room
+- boots of stealth, cell with a dead body
 
 ## Dunnage
 
