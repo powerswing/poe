@@ -31,8 +31,8 @@
 
 ## Junvik
 
-- right eye
-- mouth
+- Climb through the right eye (disable four 11LVL traps)
+- Go through the mouth (Nemnok's Cloak)
 
 - Mechanics 8
 - Bluff 4
@@ -40,15 +40,20 @@
 
 ## Map Exp
 
+- Rikuhu's Maw
 - Razai Passage
 - Magran's Teeth
 - The Burning Shoals
 - Ofecchia Channel
 - Mortar's Wrath
-- Tehiwai Islands
+- The Subterranean Temple
+- The Windless Wastes
+- The Dead Floe
+- Hall of Unseen
 - The Black Isles
 - The Vailian Trench
-- Wakara Reef
+- Tehiwai Islands
+- Kua o Rikuhu Islands
 
 - Sandswept Ruins (must have 15 Mechanics here)
 !!!! Need to get +2 Mech gloves from Iofr
@@ -64,6 +69,7 @@
 
 ## Max Exp
 
+- Wakara Reef
 - Katarapu Channel
 - Cavern of Xau Tuk-Tuk
 - Oathbinder's Sanctum
@@ -79,24 +85,23 @@
 
 - Zamar
 - Nera Bardatto
-- Map guy
-- Steal in adra mill
+- Sanza
+- Steal in Adra Mill
 - Martino Valera
+- Cotta
 - Kahn
-- Radora
-- Martino Valera sailors
-- Zamar alley thugs
+- Shrimp
 - Tawenu
 - Luca
 - Zili
 
 ### Periki's Overlook
 
-- Degnos
-- Iofr steal belt
-- Tumara
 - Marihi
-- Fassina thief's putty and gunpowder
+- Degnos
+- Iofr
+- Tumara
+- Fassina
 - Arkemyr's Vault
 
 - Mechanics 13
