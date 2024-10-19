@@ -112,6 +112,7 @@
 
 - Muhai
 - Takano
+- Netehe
 - Onekaza
 
 - Mechanics 14
@@ -124,7 +125,7 @@
 ### The Brass Citadel
 
 - Bertenno
-- Uto steal pistol
+- Uto
 - Hazanui Karu
 - Atsura
 
@@ -133,11 +134,10 @@
 - Biha
 - Enoi
 - Seduzo
-- Orron pay coin
+- Orron
 - Persa
 - Pitli
 - Dereo
-- Delver's Row medicine and steal things
 - Morena
 - Gwenfin
 
@@ -148,7 +148,6 @@
 
 - Ezzali rob her
 - Atello kill him
-- Kahanga Palace
 
 ### Periki's Overlook
 
