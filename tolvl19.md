@@ -146,26 +146,33 @@
 
 ### Queen's Berth
 
-- Ezzali rob her
-- Atello kill him
+- Ezzali rob
+- Atello kill
 
 ### Periki's Overlook
 
-- Arkemyr talk about Bekarna
-- Fassina give gloves back
+- Arkemyr
+- Fassina
 
 ### The Sacred Stair
 
-- Temple of Berath? bad choice?
+- Temple of Berath
 - Animancers
-
-### Dunnage
-
-- Aeldys
 
 ### Map Exp
 
-- Sanza
+- Oathbinder's Sanctum
+- Katarapu Channel
+- Cavern of Xaur Tuk-Tuk
+- Kangati Islands
+
+### Port Deadfire
+
+- Aeldys
+
+### Dunnage
+
+- Furrante
 
 ### Crookspur
 
