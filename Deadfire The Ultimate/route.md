@@ -22,10 +22,20 @@ Port Maje
     Governor Clario's Estate
     Escape Screen
         Supply
-            Buy Crew 124 (Leyka Vanizzi Aema)
+            Crew 124 (Leyka Vanizzi Aema)
+            1 Rope and Grappling Hook
 
 Open sea
     Kangati Islands
         Temple of Tangaloa Ruins
 
 Fort Deadlight
+    Supply
+        5 Fireworks
+        1 Kit
+
+Dunnage
+    Balefire Beacon
+    The King's Coffin
+    Supply
+        Chauncey

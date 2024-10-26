@@ -39,3 +39,8 @@ Medium Shield
 Mechanics 3
 Metaphysics 5
 Dance of Death
+
+## L6
+Mechanics 4
+Metaphysics 6
+Long Stride
