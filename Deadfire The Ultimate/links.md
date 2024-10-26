@@ -1,0 +1,5 @@
+[Deadfire FAQ](https://gamefaqs.gamespot.com/pc/227477-pillars-of-eternity-ii-deadfire/faqs/76599/glossary-and-how-deadfire-does-math)
+[Conversations with Gods](https://forums.obsidian.net/topic/107616-watcher-abilities/)
+[Permanent Bonuses](https://forums.obsidian.net/topic/101300-guide-permanent-bonuses-approach-for-a-no-rest-run/)
+[The Ultimate Runs](https://pillarsofeternity.fandom.com/wiki/The_Ultimate)
+[World Map](https://pillarsofeternity.fandom.com/wiki/Pillars_of_Eternity_II:_Deadfire_interactive_world_map?)
