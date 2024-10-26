@@ -63,3 +63,18 @@ Metaphysics 7
 Blade Turning
 
 ## L10
+Sleight of Hand 1
+Metaphysics 8
+Stunning Blow
+Circle of Protection
+
+## L11
+Stealth 5
+Metaphysics 9
+Duality of Mortal Presence
+
+## L12
+Stealth 6
+Metaphysics 10
+Enduring Dance
+Sword

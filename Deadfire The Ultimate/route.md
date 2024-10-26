@@ -71,14 +71,17 @@ Neketaka
         Kuitztli then Fassina
             Berath's Bell
             Solution 5
-            Primal Wind 2
+            Primal Wind
             Skuldur's Ear
             Chitin Leg
             Vithrak Brain
-            2 nature water wave
             Troll Skin
             Carapace
-            1 eye repltile
+            Brutish Blood
+            Ooze Plasma
+            Repltilian Eye
+            Reagent 5
+            2 nature water wave
         Degnos
         Iolfr
     Serpent's Crown
@@ -106,6 +109,38 @@ Neketaka
             Orron
         Biha
         Enoi
-        Pitlt
+        Pitli
         Dereo
         Delver's Row
+            2 Thief's Putty
+            4 Spices
+            take second shell, use Thief's Putty to pass worms (14 stealth)
+            craft and use Luminous Adra Potion
+        Dereo
+        Pitli
+        Enoi
+    
+    Queen's Bearth
+        Avetta
+        Shrimp
+        Martino Valera
+        Ezalli Bardatto (rob bank)
+    
+    Periki's Overlook
+        Fassina
+        Arkemyr
+        Mariha
+
+    Serpent's Crown
+        Price Ariuhi
+
+    The Sacred Stair
+        Berath's Temple
+            Effigy Husk -> Armor of Flesh
+
+    Queen's Bearth (through the Gullet)
+        Cotta
+        Zamar
+            Buy Ship wood lantern yakor new ship food
+
+    Hasongo
