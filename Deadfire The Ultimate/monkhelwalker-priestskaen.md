@@ -44,3 +44,22 @@ Dance of Death
 Mechanics 4
 Metaphysics 6
 Long Stride
+
+## L7
+Mechanics 5
+Intimidation 1
+Efficient Anguish
+Bull's Will
+
+## L8
+Stealth 3
+Intimidation 2
+Swift Flurry
+Stiletto
+
+## L9
+Stealth 4
+Metaphysics 7
+Blade Turning
+
+## L10
