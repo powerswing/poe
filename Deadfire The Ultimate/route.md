@@ -16,6 +16,7 @@ Port Maje
         steal Kraken's eye
     Engwithian Digsite
     Arena Sub-level
+        Kill Will-o-wisp
         Eothas 11
     Gorecci Street
     Prison
@@ -141,6 +142,46 @@ Neketaka
     Queen's Bearth (through the Gullet)
         Cotta
         Zamar
-            Buy Ship wood lantern yakor new ship food
+            Voyager
+            Arcane Lanterns
+            Ymyran Steel Anchor
+            Food
 
-    Hasongo
+Hasongo
+    Kaz (pet)
+
+Dunnage
+
+Captain Thaenic
+    Ring of Prosperity's Fortune
+    Belt of Magran's Chosen
+
+Crookspur
+    Grave Calling -> Frozen Edge
+    Supply
+        Crew
+            Coreto
+
+Fort Deadfire
+
+Wakara Reef
+    Wakara Reef
+    Teotara Marvel
+
+Tikawara
+    Baby Boar
+    Hohina Ravine
+    Toaku Biwha Trail
+        Nature's Resolve
+
+Motare O Kozi
+    Reef
+    Matekau Landing
+
+Open sea
+    Koa o Rikuhu Islands
+
+Neketaka
+    Serpent's Crown
+        Prince Aruihi
+        Queen Onekaza II

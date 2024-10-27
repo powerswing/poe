@@ -78,3 +78,19 @@ Stealth 6
 Metaphysics 10
 Enduring Dance
 Sword
+
+## L13
+Mechanics 6
+Metaphysics 11
+The Long Pain
+Barring Death's Door
+
+## L14
+Stealth 7
+Metaphysics 12
+Stunning Surge
+
+## L15
+Stealth 8
+Metaphysics 13
+Champion's Boon
