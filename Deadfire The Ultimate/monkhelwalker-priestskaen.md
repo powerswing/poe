@@ -94,3 +94,32 @@ Stunning Surge
 Stealth 8
 Metaphysics 13
 Champion's Boon
+
+## L16
+Athletics 2
+Metaphysics 14
+Turning Wheel
+Salvation of Time
+Club
+
+## L17
+Athletics 3
+Metaphysics 15
+Improved Critical
+
+## L18
+Stealth 9
+Metaphysics 16
+Uncanny Luck
+
+## L19
+Stealth 10
+Metaphysics 17
+Instruments of Pain
+Storm of Holy Fire
+
+## L20
+Stealth 11
+Metaphysics 18
+two bros
+bylava

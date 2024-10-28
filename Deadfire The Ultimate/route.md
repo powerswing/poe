@@ -185,3 +185,45 @@ Neketaka
     Serpent's Crown
         Prince Aruihi
         Queen Onekaza II
+
+    Periki's Overlook
+        Arkemyr
+        Fassina
+            Lethandria's Devotion
+
+    Queen's Bearth
+        Wanika
+            Heaven's Cacophony
+        Cobbler
+            Shorewalker Sandals
+
+Bekarna's Observatory
+    Shroud of the Phantasm
+
+Open Sea
+    Magran's Teeth
+
+Ashen Maw
+    Ajamuut's Stalking Cloak
+    Firethrower's Gloves
+
+Neketaka
+    Effigy Husk -> Skaen's Resentment
+    Amira's Blessing
+
+Dunnage
+    Hang Furrante
+
+Fort Deadfire
+
+Dunnage 
+
+Kazuwari
+    14 Dex 8 Athletics necessary to pass bridge check
+    Tiebe o Waiapu
+    Spectator's Area
+        Healing Gloves
+        Porch for food
+        Rest (Capitan's Banquet)
+    blade cascade after killing boars
+    akylii soup v samom konce
