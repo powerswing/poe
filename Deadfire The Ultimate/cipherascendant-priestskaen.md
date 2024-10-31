@@ -3,58 +3,57 @@
 Human
 Meadow Folk
 
-14
+13
 7
-11
-15
-15
 16
+16
+15
+12
 
-Ixamitl Plains
+Deadfire Archipelago
 Hunter
 
-Arqebus
+Stileto
 Pollaxe
 
 ## L2
 Stealth 1
 Metaphysics 2
-Force of Anguish
+Iron Will
 
 ## L3
 Stealth 2
 Metaphysics 3
-Arms Bearer
+Penetrating Visions
 
 ## L4
-Mechanics 2
+Mechanics 3
 Metaphysics 4
-Arms Bearer
-Clarity of Agony
-Withdraw
+Psychovampiric Shield
+Amrs Bearer
 Medium Shield
 
 ## L5
 Mechanics 3
 Metaphysics 5
-Dance of Death
+Draining Whip
 
 ## L6
 Mechanics 4
 Metaphysics 6
-Long Stride
+Recall Agony
 
 ## L7
 Mechanics 5
 Intimidation 1
-Efficient Anguish
+Combat Focus
 Bull's Will
 
 ## L8
 Stealth 3
 Intimidation 2
-Swift Flurry
-Stiletto
+Secret Horrors
+Blunderbuss
 
 ## L9
 Stealth 4
@@ -100,25 +99,3 @@ Metaphysics 14
 Turning Wheel
 Salvation of Time
 Club
-
-## L17
-Athletics 3
-Metaphysics 15
-Improved Critical
-
-## L18
-Stealth 9
-Metaphysics 16
-Uncanny Luck
-
-## L19
-Stealth 10
-Metaphysics 17
-Instruments of Pain
-Storm of Holy Fire
-
-## L20
-Stealth 11
-Metaphysics 18
-The Dichotonomous Soul
-Mace

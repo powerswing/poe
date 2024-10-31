@@ -1,16 +1,16 @@
-cutscene
-    save the crate
+First Cutscene
+    Save the crate
 
-shore
-    enter cave
+Vilario's Rest
+    Enter the cave
         loot torch in the first crate 
         ignore Beodul
 
 Port Maje
     Rinco
     loot Ring in a hidden stone behind Alteria
-    Prison
-    Katahuzi
+    Port Maje Jail
+    Satahuzi
     Kraken's Eye
         steal from counters behind bartender
         steal Kraken's eye
@@ -18,8 +18,9 @@ Port Maje
     Arena Sub-level
         Kill Will-o-wisp
         Eothas 11
+        Gosha (or cosmic bird)
     Gorecci Street
-    Prison
+    Port Maje Jail
     Governor Clario's Estate
     Escape Screen
         Supply
@@ -36,18 +37,20 @@ Fort Deadlight
         1 Kit
 
 Dunnage
+    Lifter's Refuge
+        Kae Polzech
     Balefire Beacon
     The King's Coffin
         Irwena
+        Elias Zelen
     Radiant Court
     Supply
         Chauncey
-        Elias Zelen
-        Kae Polzech
         Crew
 
 Katarapu Channel
     Wit of Death's Herald
+        2211111112
     Cavern of Xaur Tuk-Tuk
 
 Neketaka
@@ -225,5 +228,6 @@ Kazuwari
         Healing Gloves
         Porch for food
         Rest (Capitan's Banquet)
-    blade cascade after killing boars
-    akylii soup v samom konce
+    Scordeo's Edge -> Blade Cascade (after defeating Boars)
+    11 Mechanics (to kill the Drake)
+    Rest (Shark Soup)
