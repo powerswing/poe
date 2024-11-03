@@ -214,7 +214,6 @@ Ashen Maw
 
 Neketaka
     Effigy Husk -> Skaen's Resentment
-    Amira's Blessing
 
 Dunnage
     Hang Furrante

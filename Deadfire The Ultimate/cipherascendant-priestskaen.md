@@ -99,3 +99,25 @@ Metaphysics 14
 Amplified Wave
 Salvation of Time
 Large Shield
+
+## L17
+Athletics 3
+Metaphysics 15
+Disintegration
+
+## L18
+Stealth 9
+Metaphysics 16
+Extra Pocket
+
+## L19
+Stealth 10
+Metaphysics 17
+Instruments of Pain
+Storm of Holy Fire
+
+## L20
+Stealth 11
+Metaphysics 18
+The Dichotonomous Soul
+Mace
