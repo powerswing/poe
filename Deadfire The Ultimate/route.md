@@ -55,6 +55,8 @@ Katarapu Channel
 
 Neketaka
     Queen's Bearth
+        Rebero
+            Badrwn's Cover
         Zamar
         Wanika
             Horns of the Bleak Mother
@@ -91,11 +93,11 @@ Neketaka
     Serpent's Crown
         Takano
         Una
-            Rin of Minor Protection
+            Ring of Minor Protection
         Muhai
         Ereti
             Kathrine Vonn Kiliann the Cat
-        Queen Onekaza II then Price Aruihi
+        Price Aruihi
     The Sacred Stair
         Animancy Tower (only steal)
         Cremate Muhai with stealth
@@ -168,7 +170,7 @@ Crookspur
 Fort Deadfire
 
 Wakara Reef
-    Wakara Reef
+    Fanged Strait 
     Teotara Marvel
 
 Tikawara
@@ -178,7 +180,7 @@ Tikawara
         Nature's Resolve
 
 Motare O Kozi
-    Reef
+    Hungry Shoals
     Matekau Landing
 
 Open sea

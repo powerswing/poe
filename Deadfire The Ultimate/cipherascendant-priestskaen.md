@@ -58,35 +58,35 @@ Blunderbuss
 ## L9
 Stealth 4
 Metaphysics 7
-Blade Turning
+Puppet Master
 
 ## L10
 Sleight of Hand 1
 Metaphysics 8
-Stunning Blow
+Body Attunement
 Circle of Protection
 
 ## L11
 Stealth 5
 Metaphysics 9
-Duality of Mortal Presence
+Silent Scream
 
 ## L12
 Stealth 6
 Metaphysics 10
-Enduring Dance
-Sword
+Mind Lance
+Sabre
 
 ## L13
 Mechanics 6
 Metaphysics 11
-The Long Pain
+Borrowed Instinct
 Barring Death's Door
 
 ## L14
 Stealth 7
 Metaphysics 12
-Stunning Surge
+Rapid Casting
 
 ## L15
 Stealth 8
@@ -96,6 +96,6 @@ Champion's Boon
 ## L16
 Athletics 2
 Metaphysics 14
-Turning Wheel
+Amplified Wave
 Salvation of Time
-Club
+Large Shield
