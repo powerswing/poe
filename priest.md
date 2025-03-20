@@ -130,7 +130,7 @@
         - Lore 4
 - Copperlane
     - Gordy
-    - Fights thugs (hideout)
+    - Fight thugs (hideout)
 - Admeth
     - Osric (Rogue Knight)
 - The Goose and the Fox
@@ -140,7 +140,7 @@
     - Grimda (The Parable of Wael)
     - Steal book (The Theorems of Pandgram)
 - First Fires
-    - Steal ghosts
+    - Steal Obsidian Lamp Figurine
 - Ondra's Gift
     - Black market
     - Verzano (At All Costs)
@@ -148,12 +148,14 @@
     - Naedyn (The Theorems of Pandgram)
     - Doemenel (A Two Story Job)
     - Steal stone (A Two Story Job)
-    - Doemenel (The Changing of the Guard)
-- The Crucible Knight Keep
-    - Missing Sentries
-    - Built to Last
-    - The Changing of the Guard
+    - Gedmar Doemenel (The Changing of the Guard)
+- First Fires
+    - The Crucible Knight Keep
+        - Missing Sentries
+        - Built to Last
+        - The Changing of the Guard
 - Brackenbury
+    - Gedmar Doemenel (The Changing of the Guard)
     - Kurren (Rogue Knight)
     - Penhelm (resolve peacefully)
 - Admeth
@@ -172,8 +174,7 @@
 - First Fires
     - Built to Last
 - Catacombs
-    - [Cloak of Protection](https://pillarsofeternity.fandom.com/wiki/Random_loot_tables/Clothing/Cloaks#Cloak_of_Protection)
-        - Day 12 in the 3rd room of central raised area
+    - Day 12 in the 3rd room of central raised area
     - Eorn (Unwanted)
     - Helig of Thein (A Voice from the Past)
     - Main quest

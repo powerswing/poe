@@ -1,4 +1,4 @@
-# Priest
+# Barbarian
 
 ## Difficulty
 
@@ -61,7 +61,7 @@
     - The Smith's Shipment
     - Buy Bronze Horn Figurine
 - Raedric's Keep
-    - Kill guard 
+    - Kill guard
 - Raedric's Hold Dungeons
     - Free Giacco
     - Gather everything then sell
