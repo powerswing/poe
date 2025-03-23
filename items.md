@@ -16,6 +16,9 @@
 - 3 Endless Paths of Od Nua Level 1 (crate)
 - 17 Raedric's Hold Dungeons (loose brick)
 
+[Gauntlets of Accuracy](https://pillarsofeternity.fandom.com/wiki/Gauntlets_of_Accuracy)
+- 10 Raedric's Keep (master bedroom)
+
 [Nature's Embrace](https://pillarsofeternity.fandom.com/wiki/Nature%27s_Embrace)
 - 17
 - Copperlane Catacombs (sarcophagus, 3rd room, central raised area)

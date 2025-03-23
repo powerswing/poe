@@ -20,55 +20,59 @@ Aedelwan Bridge
 
 Copperlane
   The Goose and the Fox
-    Food/Mechanics
-  Gordy
-  Library
+    3 Sleep Mechanics Food
     2 Quests
-  Igrun
-  Narmer/Lora (2 Cave Coral)
+  Bug
+  Lora (2 Cave Coral)
   Thugs
   Osric
-  The Goose and the Fox
-    Kaenra
-    Two-Tone Weaxel
-  Gordy
+  Library
 Brackenbury
   Food
   Steal Gem
   Give Book
   Doemenels
     2 Quests
-First Fires
-  Lamp
-  Quests
 Ondra's Gift
-  Derrin
+  Kolfecg
   The Salty Mast
     Food
     Maea
-  Odda
   Cartugo (Awakened Root)
-  Verzano
   Aefre
-  Bregan
   The Salty Mast
     Maea
+    Sleep
+    Buy gems
+First Fires
+  Lamp
+  Quests
 Brackenbury
-  Affidavit
   Doemenel
+  Affidavit
 Copperlane
-  Gareth
-  Dorm
-  Purnisc
-  Kaenra
+  Osric
+  Dorm Day 11 14 Scroll Mechanics
 Anslog's Compass
 Woodend Plains
-Library
 Ondra's Gift
-  Lighthouse
-  Verzano
+  Lighthouse (leave 1 lvl 2 speels for hideout)
   Hideout
-Catacombs
 First Fires
-  2 Quests
-Raedric? (depends what we need at Dyrford)
+  Duncan
+Library
+Catacombs
+  Day 15 Boots
+  Day 18 Temple of Woedica Sarco
+Stealth 2 at castle
+Brackenbury main quest
+Heritage hill main quest
+Dyrford
+  Church
+  Medreth
+  Farmer
+  Bar
+  Duke
+  Underground
+  Ogre
+  Cliaban Rilag need lvl up here
