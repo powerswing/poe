@@ -144,52 +144,67 @@ Stalwart
   Bar
   Reyfald
   Bar
+  Ista
 Caed Nua Stealth
 Russetwood (from northeast to southwest and loop into the cave)
 Durgan's Battery (from southwest to northeast)
 Stalwart
   Quests (starting from hunter)
-  Grynde (must be nighttime)
-Caed Nua Mechanics  
+  Grynde (must be night time)
+  Lafda???
+Caed Nua Mechanics
 Stalwart
   Main
-Caed Nua Stealth
-Brackenbury Copperlane
-  Food Dragon Dish
+Ondra Brackenbury Copperlane
+  Ingredients for Damaging Scrolls, Food, Dragon Dish, Sleep
 Stalwart
+  Food
+  Sleep Buff
   Main
-  Food after completion
 
 ## Bounties
 
-Ondra Brackenbury Copperlane
+Stalwart Ondra Copperlane
+  Sleep
+  Food
   Ingredients
   Gems
-  Food
 Caed Nua
-  Stealth
-  Ingredients
   Bounties
     Magran's Fork
     Valewood
+      Sleep only once here
     Black Meadow
     Elmshore
-
-    Sky Dragon at lvl 12? Immune to Terror
+      Sleep
+    Sky Dragon Immune to Terror
 
     Esternwood
     Cliaban Rilag
     Stormwall Gorge
     Catacombs
 
-    Woodend Plains
     Northweald
+    Woodend Plains
     Madmr Bridge
     Anslog's Compass
 
+    Pearlwood Bluff
     Heritage Hill
     Cliant Lis
-    Pearlwood Bluff
 
 Stalwart
   Bounties
+    Longwatch Falls
+    Durgan's Battery
+    
+    Russetwood
+    Longwatch Falls
+    
+    Whitestone Hollow
+    Searing Falls
+    
+    Whitestone Hollow
+    Dyrford Crossing
+
+Caed Nua Rally
