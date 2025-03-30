@@ -1,21 +1,23 @@
 ## Act I
 
+Intro
+  Sell everything
+  Buy Lockpics
+
 Gilded Vale
+  Save and Reload
   The Black Hound Inn
-    20 Cape of Deflection
-  Aufra's House
   Tree
   Black Hammer Smithery
   Windmill
 Esternwood
-  1 Minor Ring of Protection
 Black Meadow
 Magran's Fork
 Gilded Vale
+  Quests
 Caed Nua Day
   3 Gloves of Manipulation
 Woodend Plains
-  gather gold to build Main Keep
 Aedelwan Bridge
 
 ## Act II
@@ -24,9 +26,10 @@ Copperlane
   The Goose and the Fox
     Mechanics Food
   Bug
-  Lora (2 Cave Coral Burning Lady)
+  Lora (2 Cave Coral, Max Burning Lady, Max Agat)
   Thugs
   Osric
+  Rope and Grappling Hook
   Library
 Brackenbury
   Food
@@ -36,14 +39,15 @@ Brackenbury
   Give Book
 Ondra's Gift
   Kolfecg
-  Gems
+  Derrick
   The Salty Mast
     Maea
     Food
     Sleep
-  Derrick
+  Gems (2 Diamonds, 5 Pearls)
+  Thugs (3 Chill Fogs only)
   Odda
-  Cartugo (Awakened Root, Ring of Wonders)
+  Cartugo (Wurm Wing, Ring of Wonders)
   Verzano
   Aefre
   Bregan
@@ -67,13 +71,15 @@ Copperlane
   Catacombs
     Day 15 Boots
 Caed Nua
-  Stealth 2
   Respec
+  Stealth 2
 Copperlane
   Food
   Day 18 Temple of Woedica Sarco
-Brackenbury main quest
-Heritage Hill main quest
+Brackenbury
+  Main
+Heritage Hill
+  Main
   Rest
   Rite of Walking Shadows
 Dyrford
@@ -90,7 +96,7 @@ Dyrford
   Quests
 Ondra's Gift
   Gems
-  Sleep if needed
+  Sleep
   Cartugo
   Verzano
   Hideout
