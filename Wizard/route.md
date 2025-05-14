@@ -73,9 +73,10 @@ Copperlane
 Caed Nua
   Respec
   Stealth 2
+  Travel Day 17 Hour 3 (if possible)
 Copperlane
-  Food
-  Day 18 Temple of Woedica Sarco
+  Day 17 Temple of Woedica Rooms (Rite of Shadows)
+  Day 18 Temple of Woedica Sarco (Gauntlets of Accuracy)
 Brackenbury
   Main
 Heritage Hill
@@ -91,12 +92,13 @@ Dyrford
   Hedyna
   Underground
   Ogre
+  Egg
   Cliaban Rilag
 Dyrford
   Quests
 Ondra's Gift
   Gems
-  Sleep
+  Sleep (to escape Assassins)
   Cartugo
   Verzano
   Hideout
@@ -114,7 +116,6 @@ Hearthsong
   Bar
   Alarhi
   Rinatto
-  Alarhi
 Elms' Reach
   Simoc
   Bledha
@@ -135,11 +136,17 @@ Northweald
 Elmshore
 Hearthsong
   Main
+  Alarhi
   Bird
 Oldsong
+  Bird
+  Maw
 Elms' Reach
   Main
   Glanfa
+Caed Nua
+  Curio
+  DLC
 
 ## White March
 
@@ -150,27 +157,35 @@ Stalwart
   Bar
   Reyfald
   Bar
+  Okrun
   Ista
+  Lafda (sneak)
 Caed Nua Stealth
-Russetwood (from northeast to southwest and loop into the cave)
+Russetwood
+  from northeast to southwest and loop into the cave
+  loot the chest in pond
 Durgan's Battery (from southwest to northeast)
 Stalwart
   Quests (starting from hunter)
+  Main
   Grynde (must be night time)
-  Lafda???
+  Lafda (kill)
 Caed Nua Mechanics
 Stalwart
-  Main
-Ondra Brackenbury Copperlane
-  Ingredients for Damaging Scrolls, Food, Dragon Dish, Sleep
+  11 2222 111
+  223 13 223 1113
+
+Ondra
+Caed Nua
+  Perception
 Stalwart
   Food
-  Sleep Buff
   Main
+    1111 8 22 3 22 1111
 
 ## Bounties
 
-Stalwart Ondra Copperlane
+Stalwart
   Sleep
   Food
   Ingredients
@@ -179,11 +194,13 @@ Caed Nua
   Bounties
     Magran's Fork
     Valewood
-      Sleep only once here
+      Sleep
     Black Meadow
     Elmshore
       Sleep
-    Sky Dragon Immune to Terror
+    Sky Dragon
+      Paralysis
+      Immune to Terror
 
     Esternwood
     Cliaban Rilag
@@ -214,3 +231,15 @@ Stalwart
     Dyrford Crossing
 
 Caed Nua Rally
+  l s
+  m b
+  r p
+  4 1 2 3 2 3 222 1
+  Paralysis 10
+  Stones 10
+  Immune to Terror
+
+Lengrath
+  Paralysis 10
+  Stones 10
+  Immune to Terror
